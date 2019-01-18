@@ -1,4 +1,4 @@
-package testProject
+package main
 
 import (
 	"time"
