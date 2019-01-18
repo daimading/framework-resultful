@@ -1,0 +1,12 @@
+database:
+  driver: sqlite3
+  name: test.sqlite3
+  #  driver: mysql
+  #  name: testProject
+  #  username: root
+  #  password: root
+  #  host: 127.0.0.1
+  #  port: 3306
+  #  max_open_conn: 10
+  #  max_idle_conn: 10
+  #  conn_max_lifetime: 3600
