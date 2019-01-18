@@ -1,8 +1,8 @@
 package main
 
 import (
-	"time"
 	"fmt"
+	"time"
 )
 
 func main() {
@@ -29,4 +29,6 @@ func main() {
 		fmt.Println("arrays", v)                 //下标所对应的值
 		fmt.Println("array length:", len(array)) //数组的长度
 	}
+
+	//copy 数组的类型必须相同。
 }
