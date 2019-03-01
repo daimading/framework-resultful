@@ -46,6 +46,7 @@ var Config = DBConfig{
 	DriverName: "sqlite3",
 	DBName:     "test.sqlite3",
 }
+
 //TODO 配置数据库表注册
-func init()  {
+func init() {
 }
